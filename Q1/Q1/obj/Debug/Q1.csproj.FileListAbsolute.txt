@@ -1,0 +1,14 @@
+C:\Users\Abdul Wasay Sial\Desktop\VP lab final\Q1\Q1\bin\Debug\Q1.exe.config
+C:\Users\Abdul Wasay Sial\Desktop\VP lab final\Q1\Q1\bin\Debug\Q1.exe
+C:\Users\Abdul Wasay Sial\Desktop\VP lab final\Q1\Q1\bin\Debug\Q1.pdb
+C:\Users\Abdul Wasay Sial\Desktop\VP lab final\Q1\Q1\obj\Debug\Q1.csproj.AssemblyReference.cache
+C:\Users\Abdul Wasay Sial\Desktop\VP lab final\Q1\Q1\obj\Debug\MainWindow.baml
+C:\Users\Abdul Wasay Sial\Desktop\VP lab final\Q1\Q1\obj\Debug\MainWindow.g.cs
+C:\Users\Abdul Wasay Sial\Desktop\VP lab final\Q1\Q1\obj\Debug\App.g.cs
+C:\Users\Abdul Wasay Sial\Desktop\VP lab final\Q1\Q1\obj\Debug\Q1_MarkupCompile.cache
+C:\Users\Abdul Wasay Sial\Desktop\VP lab final\Q1\Q1\obj\Debug\Q1.g.resources
+C:\Users\Abdul Wasay Sial\Desktop\VP lab final\Q1\Q1\obj\Debug\Q1.Properties.Resources.resources
+C:\Users\Abdul Wasay Sial\Desktop\VP lab final\Q1\Q1\obj\Debug\Q1.csproj.GenerateResource.cache
+C:\Users\Abdul Wasay Sial\Desktop\VP lab final\Q1\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Wasay Sial\Desktop\VP lab final\Q1\Q1\obj\Debug\Q1.exe
+C:\Users\Abdul Wasay Sial\Desktop\VP lab final\Q1\Q1\obj\Debug\Q1.pdb
